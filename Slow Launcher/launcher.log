@@ -1,0 +1,27 @@
+
+=== Launcher started at [11:41:23] ===
+[11:41:23] Plugins reloaded. (3 found)
+[11:41:34] Launching: ping 127.0.0.1 -n 10
+[11:41:34] Running plugin: live_stream
+[11:41:34] 
+[11:41:34] Disparando 127.0.0.1 com 32 bytes de dados:
+[11:41:34] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:35] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:36] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:37] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:38] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:39] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:40] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:41] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:42] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:43] Resposta de 127.0.0.1: bytes=32 tempo<1ms TTL=128
+[11:41:43] 
+[11:41:43] Estat¡sticas do Ping para 127.0.0.1:
+[11:41:43] Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+[11:41:43] perda),
+[11:41:43] Aproximar um n£mero redondo de vezes em milissegundos:
+[11:41:43] M¡nimo = 0ms, M ximo = 0ms, M‚dia = 0ms
+[11:41:43] 🟢 live_stream using simple log API
+[11:41:43] [live_stream] Live stream server running at http://localhost:8081 (bps=1)
+[11:41:43] Plugin finished.
+[11:42:05] === Launcher closed ===
